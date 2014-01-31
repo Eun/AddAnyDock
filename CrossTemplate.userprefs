@@ -1,0 +1,13 @@
+﻿<Properties>
+  <AuthorInfo Name="Eun" Email="" Copyright="Eun" Company="" Trademark="" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mac/CoreGraphicsLibary.cs">
+    <Files>
+      <File FileName="Mac/CoreGraphicsLibary.cs" Line="39" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
